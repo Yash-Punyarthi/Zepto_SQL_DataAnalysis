@@ -140,7 +140,7 @@ CREATE TABLE zepto (
 
    - Import the dataset (convert to UTF-8 if necessary)
 
-4. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
+
 
 ## 📜 License
 
